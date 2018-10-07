@@ -1,5 +1,5 @@
 CodeBook
-General Information on data, please refer to README.md
+General Information on data, please refer to README.txt
 
 Description of steps undertaken to clean and reshape the data:
 
